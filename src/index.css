@@ -1,5 +1,5 @@
 body {
-  font: 14px "Century Gothic", Futura, sans-serif;
+  font: 20px "Century Gothic", Futura, sans-serif;
   margin: 20px;
 }
 
@@ -38,7 +38,7 @@ ul {
 }
 
 .kbd-navigation .square:focus {
-  background: #ddd;
+  background: red;
 }
 
 .game {
